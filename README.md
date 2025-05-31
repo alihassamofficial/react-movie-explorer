@@ -24,8 +24,9 @@ It shows trending movies, allows users to search for movies by title, and displa
 
 ## 🛠 Tech Stack
 
-- [React]
-- [Tailwind CSS]
-- [TMDB API]
-- [Axios]
-- [Vercel]
+- **React** – UI library for building interactive UIs
+- **Tailwind CSS** – Utility-first CSS framework for styling
+- **Vite** – Fast front-end build tool
+- **TMDB API** – Movie data source (trending, search, details)
+- **Appwrite** – Backend server for storing/searching movie data
+- **Deployment** – Vercel (instant CI/CD & hosting)
